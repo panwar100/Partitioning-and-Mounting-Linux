@@ -3,13 +3,13 @@ This repository provides a comprehensive guide on managing disk partitions, crea
 
 ## Table of Contents
 
-[1.Basic Partitioning](#1.basic-partitioning)
+[1.Basic Partitioning](#1basic-partitioning)
 
-[2.File System Creation and Mounting](#2.file-system-creation-and-mounting)
+[2.File System Creation and Mounting](#2file-system-creation-and-mounting)
 
-[3.Dynamic Partitioning (LVM)](#3.dynamic-partitioing-lvm)
+[3.Dynamic Partitioning (LVM)](#3dynamic-partitioning-lvm)
 
-[4.Swap Creation](#4.swap-creation)
+[4.Swap Creation](#4swap-creation)
 
 # 1.Basic Partitioning
 
